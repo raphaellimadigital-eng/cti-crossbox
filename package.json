@@ -1,0 +1,10 @@
+{
+  "name": "cti-crossbox-links",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Landing page de links na bio do CTI CrossBox",
+  "scripts": {
+    "preview": "node tools/preview.cjs",
+    "test": "node --test tests/*.test.cjs"
+  }
+}
